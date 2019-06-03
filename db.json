@@ -1,11 +1,13 @@
 {
   "sports": {
     "title": "Federer in the French Open",
-    "date": "7 hours ago",
+    "ago": "7 hours ago",
+    "date": 2,
     "image": "https://ichef.bbci.co.uk/onesport/cps/480/cpsprodpb/05A8/production/_107184410_gettyimages-1152845645.jpg"
   },
   "entertainment": {
     "title": "Lily Collins in new movie",
+    "date": 1,
     "image": "https://www.gannett-cdn.com/-mm-/0a16cd32681f53ea7b4a70e76a23b460fc24e4bf/c=0-139-3224-1960/local/-/media/2017/06/30/USATODAY/USATODAY/636344076788900592-GTY-685317946-91021367.JPG?width=580&height=326&fit=crop"
   }
 }
