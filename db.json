@@ -1,0 +1,10 @@
+{
+  "sports": {
+    "title": "Some sports",
+    "subtitle": "View the latest sports"
+  },
+  "entertainment": {
+    "title": "Some entertainment",
+    "subtitle": "View the latest entertainment"
+  }
+}
